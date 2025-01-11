@@ -28,7 +28,7 @@ This course consists of video lessons covering basic to advanced Terraform conce
 - Challenges with the traditional approach
 - Terraform Workflow
 - Installing Terraform
-- [Code Sample](/lessons/01-introduction/)
+- [Code Sample](/lessons/day01/)
 
 #### Day2: Terraform Provider
 - Terraform Providers
@@ -36,41 +36,41 @@ This course consists of video lessons covering basic to advanced Terraform conce
 - Why version matters
 - Version constraints
 - Operators for versions
-- [Code Sample](/lessons/02-terraform-provider/)
+- [Code Sample](/lessons/day02/)
 
 #### Day3: Resource Group and Storage Account
 - Authentication and Authorization to Azure resources
 - Creating resource groups
 - Storage account management
 - Understanding dependencies
-- [Code Sample](/lessons/03-resource-storage/)
+- [Code Sample](/lessons/day03/)
 
-#### Day4: Backend Configuration
+#### Day4: State file management - Remote Backend
 - How Terraform updates Infra
 - Terraform state file
 - State file best practices
 - Remote backend setup
 - State management
-- [Code Sample](/lessons/04-backend-config/)
+- [Code Sample](/lessons/day04/)
 
 #### Day5: Variables
 - Input variables
 - Output variables
 - Locals
+- Variable precedence
 - Variable files (tfvars)
-- [Code Sample](/lessons/5-variables/)
+- [Code Sample](/lessons/day05/)
 
 #### Day6: File Structure
 - Terraform file organization
 - Sequence of file loading
 - Best practices for structure
-- [Code Sample](/lessons/05-file-structure/)
+- [Code Sample](/lessons/day06/)
 
 #### Video 7: Type constraints in Terraform
 - String, number, bol
-- Map, set, list, null
-- Locals
-- [Code Sample](/lessons/06-data-structures/)
+- Map, set, list, Tuple, Objects
+- [Code Sample](/lessons/day07/)
 
 #### Video 8: Meta-arguments
 - Understanding count
